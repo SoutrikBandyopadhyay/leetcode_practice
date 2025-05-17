@@ -1,0 +1,12 @@
+#+title: LeetCode Practice
+#+author: Soutrik Bandyopadhyay
+
+* About
+
+This is a repository that contains the solutions to the LeetCode questions I
+found useful.
+
+
+* Topics
+** Sorting
+1.
