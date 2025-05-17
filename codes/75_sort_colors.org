@@ -1,4 +1,4 @@
-#+title: 75 Sort Colors
+#+title: 75. Sort Colors
 #+tags: Sorting, Inplace Sort, Array Manipulation
 
 * Problem

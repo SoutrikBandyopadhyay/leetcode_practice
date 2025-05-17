@@ -11,3 +11,6 @@ found useful.
 
 ** Sorting
 1. [[file:codes/75_sort_colors.org][#75 - Sort Colors]]
+
+** Prefix Sum
+1. [[file:codes/560_subarray_sum_equals_k.org][#560 - Subarray Sum Equals K]]
