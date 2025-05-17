@@ -42,3 +42,10 @@ return judgeSquareSum(5)
 
 #+RESULTS:
 : True
+
+* Complexity
+** Time
+O(sqrt(C))
+
+** Space
+O(sqrt(C))

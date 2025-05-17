@@ -16,3 +16,4 @@ found useful.
 1. [[file:codes/560_subarray_sum_equals_k.org][#560 - Subarray Sum Equals K]]
 
 ** Two Pointers
+1. [[file:codes/633_sum_of_square_numbers.org][#633 - Sum of Square Numbers]]
